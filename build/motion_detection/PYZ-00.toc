@@ -224,6 +224,9 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
+  ('config',
+   'C:\\Users\\José Oliveira\\Desktop\\Exposicao\\App\\config.py',
+   'PYMODULE'),
   ('contextlib',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',

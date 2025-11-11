@@ -638,6 +638,10 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
@@ -646,9 +650,8 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+  ('config',
+   'C:\\Users\\José Oliveira\\Desktop\\Exposicao\\App\\config.py',
    'PYMODULE'),
   ('rtmidi',
    'C:\\Users\\José '
@@ -1655,65 +1658,65 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\cv2.pyd',
    'EXTENSION'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('api-ms-win-crt-time-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-process-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-runtime-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
+  ('api-ms-win-crt-convert-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'Toolkit\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
+  ('api-ms-win-crt-string-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
-  ('VCRUNTIME140_1.dll',
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-utility-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140_1.dll',
    'BINARY'),
   ('api-ms-win-crt-private-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
@@ -1740,113 +1743,109 @@
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\ucrtbase.dll',
    'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
+  ('api-ms-win-core-memory-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-sysinfo-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-interlocked-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-util-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-errorhandling-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-datetime-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
    'BINARY'),
   ('api-ms-win-core-file-l2-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
+  ('api-ms-win-core-heap-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-processenvironment-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
    'BINARY')],
  [],
  [],
- [('cv2\\config-3.py',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py',
-   'DATA'),
-  ('cv2\\load_config_py3.py',
+ [('cv2\\load_config_py3.py',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\load_config_py3.py',
    'DATA'),
@@ -1854,13 +1853,33 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config.py',
    'DATA'),
-  ('numpy-2.2.6.dist-info\\entry_points.txt',
+  ('cv2\\config-3.py',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\entry_points.txt',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\config-3.py',
    'DATA'),
   ('numpy-2.2.6.dist-info\\INSTALLER',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\entry_points.txt',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\WHEEL',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\REQUESTED',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\REQUESTED',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\DELVEWHEEL',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\RECORD',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\RECORD',
    'DATA'),
   ('numpy-2.2.6.dist-info\\LICENSE.txt',
    'C:\\Users\\José '
@@ -1869,22 +1888,6 @@
   ('numpy-2.2.6.dist-info\\METADATA',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\METADATA',
-   'DATA'),
-  ('numpy-2.2.6.dist-info\\DELVEWHEEL',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\DELVEWHEEL',
-   'DATA'),
-  ('numpy-2.2.6.dist-info\\WHEEL',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\WHEEL',
-   'DATA'),
-  ('numpy-2.2.6.dist-info\\RECORD',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\RECORD',
-   'DATA'),
-  ('numpy-2.2.6.dist-info\\REQUESTED',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy-2.2.6.dist-info\\REQUESTED',
    'DATA'),
   ('cv2\\__init__.py',
    'C:\\Users\\José '
@@ -1926,7 +1929,23 @@
    'C:\\Users\\José '
    'Oliveira\\Desktop\\Exposicao\\App\\build\\motion_detection\\base_library.zip',
    'DATA')],
- [('types',
+ [('operator',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\operator.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\io.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\os.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('types',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\types.py',
    'PYMODULE'),
@@ -1934,61 +1953,101 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_collections_abc.py',
    'PYMODULE'),
-  ('heapq',
+  ('traceback',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\heapq.py',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\traceback.py',
    'PYMODULE'),
-  ('sre_parse',
+  ('re._parser',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sre_parse.py',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py',
    'PYMODULE'),
-  ('weakref',
+  ('re._constants',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\weakref.py',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_constants.py',
    'PYMODULE'),
-  ('codecs',
+  ('re._compiler',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codecs.py',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\__init__.py',
    'PYMODULE'),
   ('sre_compile',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sre_compile.py',
    'PYMODULE'),
-  ('reprlib',
+  ('abc',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\reprlib.py',
-   'PYMODULE'),
-  ('warnings',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\warnings.py',
-   'PYMODULE'),
-  ('functools',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\functools.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\os.py',
-   'PYMODULE'),
-  ('io',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\io.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\enum.py',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\abc.py',
    'PYMODULE'),
   ('locale',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\locale.py',
    'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\enum.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\functools.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\reprlib.py',
+   'PYMODULE'),
   ('stat',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stat.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\José '
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codecs.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\José '
@@ -2478,13 +2537,9 @@
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('keyword',
+  ('copyreg',
    'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\operator.py',
+   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copyreg.py',
    'PYMODULE'),
   ('collections.abc',
    'C:\\Users\\José '
@@ -2493,58 +2548,6 @@
   ('collections',
    'C:\\Users\\José '
    'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\collections\\__init__.py',
-   'PYMODULE'),
-  ('re._parser',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py',
-   'PYMODULE'),
-  ('re._constants',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_constants.py',
-   'PYMODULE'),
-  ('re._compiler',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\__init__.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('abc',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\abc.py',
-   'PYMODULE'),
-  ('_weakrefset',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_weakrefset.py',
-   'PYMODULE'),
-  ('copyreg',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('sre_constants',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\genericpath.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Users\\José '
-   'Oliveira\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\posixpath.py',
    'PYMODULE'),
   ('cv2',
    'C:\\Users\\José '
