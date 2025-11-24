@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['motion_detection.py'],
+    ['MOTION_DETECTION.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='motion_detection',
+    name='MOTION_DETECTION',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -35,5 +35,4 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['icon.ico'],
 )
